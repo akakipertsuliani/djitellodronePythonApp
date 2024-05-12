@@ -6,5 +6,5 @@
 
 # Install this packages
 <p>2.pip install opencv-python</p>
-<p>1.pip install pillow</p>
-<p>1.pip install djitellopy</p>
+<p>3.pip install pillow</p>
+<p>4.pip install djitellopy</p>
